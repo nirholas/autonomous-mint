@@ -1,0 +1,11 @@
+{
+  "slug": "autonomous-mint",
+  "name": "Autonomous Mint",
+  "kind": "agent",
+  "description": "Design a bounded agent policy for issuing collectibles without surrendering owner control.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
