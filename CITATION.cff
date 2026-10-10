@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "autonomous-mint"
+abstract: "Design a bounded agent policy for issuing collectibles without surrendering owner control."
+repository-code: "https://github.com/nirholas/autonomous-mint"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
