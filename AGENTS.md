@@ -8,7 +8,7 @@ Design a bounded agent policy for issuing collectibles without surrendering owne
 
 - Source: https://github.com/nirholas/autonomous-mint
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
